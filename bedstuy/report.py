@@ -134,8 +134,9 @@ def token_match(unidentified_counter, to_span_map, canonical_to_aliases, alias_t
                     canonical_to_aliases[alias_to_canonical[root_token]]["normed"].append(normed_chunk)
             else:
                 found = False
-                for token in item:
-                    key = token.lemma_.strip("()")
+                all_n_grams = get_all_n_grams(item)
+                for n_gram in all_n_grams:
+                    key = normalize_span(n_gram)
                     if key in canonical_to_aliases:
                         item_counter[key][normed_chunk] += 1
                         canonical_to_aliases[key]["normed"].append(normed_chunk)
@@ -148,7 +149,36 @@ def token_match(unidentified_counter, to_span_map, canonical_to_aliases, alias_t
                         break
                 if not found and item.text not in SKIP:
                     still_unidentified_counter[item.text] += 1
+                # found = False
+                # for token in item:
+                #     key = token.lemma_.strip("()")
+                #     if key in canonical_to_aliases:
+                #         item_counter[key][normed_chunk] += 1
+                #         canonical_to_aliases[key]["normed"].append(normed_chunk)
+                #         found = True
+                #         break
+                #     elif key in alias_to_canonical:
+                #         item_counter[alias_to_canonical[key]][normed_chunk] += 1
+                #         canonical_to_aliases[alias_to_canonical[key]]["normed"].append(normed_chunk)
+                #         found = True
+                #         break
+                # if not found and item.text not in SKIP:
+                #     still_unidentified_counter[item.text] += 1
     return still_unidentified_counter
+
+def get_n_grams(span, n):
+    n_grams = []
+    for i in range(len(span)):
+        if (i+n) > len(span):
+            continue
+        n_grams.append(span[i:i+n])
+    return n_grams
+
+def get_all_n_grams(span):
+    all_n_grams = []
+    for n in range(1, len(span)+1):
+        all_n_grams += get_n_grams(span, n)
+    return all_n_grams[::-1]
 
 def main():
     canonical_to_aliases, alias_to_canonical = load_taxonomy()
@@ -162,8 +192,6 @@ def main():
 
 
     report(item_counter, still_unidentified_counter, canonical_to_aliases)
-
-    import ipdb; ipdb.set_trace()
 
     print("Done.")
 
