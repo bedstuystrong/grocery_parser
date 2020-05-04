@@ -5,7 +5,7 @@ import json
 from collections import defaultdict, Counter
 from tqdm import tqdm
 
-from bedstuy.consts import *
+from grocery_parser.consts import *
 
 SKIP = {}
 STOP_LIST = {"food", "groceries", "bottle", "frozen", "-PRON-", "bag", "can", "kind", "pack", "box", "supply", "kinds", "allergies"}
