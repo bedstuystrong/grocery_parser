@@ -8,11 +8,12 @@ from tqdm import tqdm
 from bedstuy.consts import *
 
 SKIP = {}
-STOP_LIST = {"frozen", "-PRON-", "bag", "can", "kind", "pack", "box", "supply", "kinds"}
+STOP_LIST = {"food", "groceries", "bottle", "frozen", "-PRON-", "bag", "can", "kind", "pack", "box", "supply", "kinds", "allergies"}
+LEMMA_EXCEPTIONS = {"string"}
 NLP = spacy.load('en_core_web_sm')
 
 def normalize_span(span):
-    return ' '.join([token.lemma_ for token in span if not (token.is_punct or token.is_space or token.is_stop or token.text in STOP_LIST or token.lemma_ in STOP_LIST)]).strip("()")
+    return ' '.join([token.lemma_ if token.text not in LEMMA_EXCEPTIONS else token.text for token in span if not (token.is_punct or token.is_space or token.is_stop or token.text in STOP_LIST or token.lemma_ in STOP_LIST)]).strip("()")
 
 def normalize_string(input_string):
     return input_string.lower().strip().strip("()")
@@ -72,7 +73,7 @@ def report(item_counter, still_unidentified_counter, canonical_to_aliases):
         item_output['name'] = item
         item_output['count'] = sum(counter.values())
         item_output['original_aliases'] = list(set(canonical_to_aliases[item]['original']))
-        item_output['normed_and_added_aliases'] = sorted([(key, count) for key, count in counter.items()], key=lambda x: x[1], reverse=True)
+        item_output['normed_and_added_aliases'] = sorted([(key, count) for key, count in counter.items() if count > 1 ], key=lambda x: x[1], reverse=True)
         output_json.append(item_output)
     output_json = sorted(output_json, key=lambda x: x['count'], reverse=True)
     with open(OUTPUT_PATH, 'w') as _json_file:

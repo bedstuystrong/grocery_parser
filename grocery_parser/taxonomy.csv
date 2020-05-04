@@ -1,77 +1,81 @@
 Structured Item,Item Category,Associated terms
 Water,Water,"bottled water, gallon of water, water, waters (six pack), case of bottled water"
-Bread,Carbs,"bread, sliced bread (wheat), wheat bread"
+Bread,Carbs,"bread, roll, sliced bread (wheat), wheat bread, white bread, loaf"
 Milk,Dairy / Eggs,"milk, milk (2%), milk, 1% milk, 2% milk"
-Rice,Carbs,rice
-Toilet Paper,Hygiene,Toilet Paper
-Chicken (Fresh),Meat / Fish (Fresh),"chicken breast, chicken, bag of chicken, chicken"
-Orange Juice,Beverages,"orange juice, orange juice (calcium fortified)"
-Canned Beans,Canned / Jarred Goods,"beans, canned vegetarian beans, canned beans"
-Juice,Beverages,"Apple juice, juice (orange juice / apple juice)"
+Rice,Carbs,"rice, brown rice, white rice"
+Chicken (Fresh),Meat / Fish (Fresh),"chicken leg, chicken thigh, chicken wing, wing, chicken breast, chicken, bag of chicken, chicken, wingettes, boneless breast"
+Canned Beans,Canned / Jarred Goods,"beans, canned vegetarian beans, canned beans, black bean"
+Juice,Beverages,"juice, juice (orange juice / apple juice), orange juice, apple juice, cranberry juice, grape juice"
 Oranges,Fresh Fruits and Vegetables,oranges
 Diapers,Diapers,"Diapers (size 6), Diapers (size 4), Diapers (newborn), pull-ups, Diapers (size 5), Diapers (size 2), Diapers (size 4T), Pampers (size 5)"
-Greens,Fresh Fruits and Vegetables,"collard greens, kale, arugala, spinach"
-Eggs,Dairy / Eggs,eggs
-Soap,Hygiene,"Soap, antibacterial soap, soap (dove or dial), body soap"
+Greens,Fresh Fruits and Vegetables,"collard greens, kale, arugala, spinach, collard green"
+Eggs,Dairy / Eggs,"eggs, dozen egg"
+Soap,Hygiene,"Soap, antibacterial soap, soap (dove or dial), body soap, hand soap"
 Kid's Entertainment,Entertaiment,"Make your own stamp kit, Entertainment (Special Needs Child), Entertainment (Children's), coloring books, crayons, arts and crafts activity for 4 year old"
 Potatoes,Fresh Fruits and Vegetables,"potatoes, white potatoes, bag of potatoes, red potatoes, bag of large potatoes"
-Cereal,Carbs,"cereal, cereal (corn flakes and connamon toast crunch), cereal (cinnamon toast crunch and/or frosted flakes), honey nut cheerios and/or Kellogg's Frosted Flakes, cereal."
+Cereal,Carbs,"corn flake raisin bran, frost flake, cereal, cereal (corn flakes and connamon toast crunch), cereal (cinnamon toast crunch and/or frosted flakes), honey nut cheerios and/or Kellogg's Frosted Flakes, cereal, corn flake cereal, corn flake fruit loop, frost flake corn flake raisin bran, corn pop cereal"
 Fresh Fruit,Fresh Fruits and Vegetables,"fruits (orange / banana / grape / strawberry / black plums), fruits (apples / grapes), fruit., fresh fruits"
 Frozen Vegetables,Frozen Food,frozen vegetables
-Fresh Vegetables,Fresh Fruits and Vegetables,vegetables
-Cheese,Dairy / Eggs,"White cheddar cheese, cheese (american / pepper jack), cheese, block of cheese"
+Fresh Vegetables,Fresh Fruits and Vegetables, "Fruits and Vegetables,vegetables, veggie, veggies"
+Cheese,Dairy / Eggs,"White cheddar cheese, cheddar cheese,  american cheese, kraft singles,  cheese (american / pepper jack), cheese, block of cheese"
 Menstrual Supplies,Hygiene,"Menstrual pads, Tampons, ""menstrual pads, size 4"""
 Fresh Meat,Meat / Fish (Fresh),"chicken or fish, meats (chicken/ pork chops / chicken wings), meat (NO PORK), beef and chicken"
 Oatmeal,Carbs,oatmeal
-Canned Vegetables,Canned / Jarred Goods,"canned vegetables, can mixed vegetables, canned peas"
+Canned Vegetables,Canned / Jarred Goods,"canned vegetables, mixed vegetable,  can mixed vegetables, canned peas"
+Canned tomatoes, Canned / Jarred goods, "canned tomatoes"
+Thermometer, Medical, thermometer
 Frozen Meat,Frozen Food,frozen meats
-Apples,Fresh Fruits and Vegetables,"apples, red apples"
+Toilet Paper, Hygiene, "toilet paper, toilet tissue"
+Apples,Fresh Fruits and Vegetables,"apples, red apples, green red apple"
 Deodorant,Hygiene,Deodorant
 Dog Food,Pets,"Dog Food, dog food (canned), dog food (for small dog)"
-Flour,Baking Supplies,"flour, all purpose flour gold medal"
+Flour,Baking Supplies,"flour, all purpose flour gold medal, purpose flour"
 Pain Reliever,Medical,"motrin, tylenol, tylenol (children's)"
 Canned Goods,Canned / Jarred Goods,"canned food, canned goods, canned goods"
 Toys,Entertaiment,Toys
 Onions,Fresh Fruits and Vegetables,"onions, white onions"
-Grapes,Fresh Fruits and Vegetables,"grapes, seedless grapes"
-Canned Fruit,Canned / Jarred Goods,"canned pineapple, canned fruit. Frozen chicken. Pasta, canned fruit"
+Grapes,Fresh Fruits and Vegetables,"grapes, green red grape, seedless grapes, red green grape"
+Plantains, Fresh Fruits and Vegetables, "plantains, green platano"
+Canned Fruit,Canned / Jarred Goods,"canned pineapple, pineapple, canned fruit. Frozen chicken. Pasta, canned fruit"
 Sugar,Baking Supplies,sugar
-Pasta,Carbs,"pasta, spaghetti noodles"
+Pasta,Carbs,"pasta, spaghetti noodles, spaghetti, pk spaghetti, pks spaghetti, thin spaghetti, chef boyardee spaghetti, prego spaghetti sauce, pasta sauce, thin spaghetti pasta, meals spaghetti, parilla spaghetti, regular spaghetti, thick spaghetti, dry spaghetti, angel hair spaghetti"
 Paper Towels,Cleaning Supplies,paper towels
-Tuna,Canned / Jarred Goods,"tuna, tuna fish"
-Bleach,Cleaning Supplies,Bleach
+Bleach,Cleaning Supplies,"Bleach, clorox, lysol, disinfectant spray, ajax"
 Toothpaste,Hygiene,toothpaste
 Butter,Dairy / Eggs,butter
-Tissues,Hygiene,"Tissues, tissue (bathroom)"
-Canned Fish,Canned / Jarred Goods,canned tuna
-Bananas,Fresh Fruits and Vegetables,bananas
-Beef,Meat / Fish (Fresh),"beef, hamburgers"
-Laundry Detergent,Cleaning Supplies,"laundry detergent, laundry detergent. Groceries: canned corn"
+Tissues,Hygiene,"Tissues"
+Canned Fish,Canned / Jarred Goods,"canned tuna, tuna, tuna fish, tunafish"
+Bananas,Fresh Fruits and Vegetables,"bananas, green banana, green bananas"
+Beef,Meat / Fish (Fresh),"beef, hamburgers, steak, steaks, steak beef"
+Laundry Detergent,Cleaning Supplies,"laundry detergent, laundry detergent, detergent"
 Broccoli,Fresh Fruits and Vegetables,broccoli
 Beets,Fresh Fruits and Vegetables,beets
 Cleaning Supplies,Cleaning Supplies,cleaning supplies
-Canned Yams,Canned / Jarred Goods,canned yams or sweet potatoes
+Canned Yams,Canned / Jarred Goods,""canned yams or sweet potatoes, canned yams"
+Sweet Potato, Fresh Fruits and Vegetables, "sweet potato, sweet potatos, yams"
 Canned Greens,Canned / Jarred Goods,canned greens
 Alcohol Swabs,Medical,alcohol swabs
-Dishwasher,Cleaning Supplies,dishwashing liquid
+Dishwasher Soap,Cleaning Supplies,"dishwashing liquid, dish detergent, dish soap"
 Baby Wipes,Baby Supplies,baby wipes
-Canned Lima Beans,Canned / Jarred Goods,"canned lima breans, canned lima beans"
+Canned Lima Beans,Canned / Jarred Goods,"lima beans, canned lima breans, canned lima beans"
 Cold Cuts,Meat / Fish (Fresh),cold cuts (turkey / chicken)
+Mayonnaise, Condiments, "mayonnaise, mayo, mayonaise"
+Turkey, Meat / Fish (Fresh), "turkey, turkey bacon, turkey wing"
 Pears,Fresh Fruits and Vegetables,pears
 Lettuce,Fresh Fruits and Vegetables,lettuce
-Oil,Oil,"vegetable oil, cooking oil"
+Oil,Oil,"corn cooking oil, olive oil, vegetable oil, cooking oil, corn vegetable oil"
 Bacon,Meat / Fish (Fresh),bacon
 Hand Sanitizer,Hygiene,hand sanitizer
 Shrimp,Meat / Fish (Fresh),"shrimp, shrimp (1-2lbs)"
 Cookies,Snacks / Dessert,"belvita cookies, cookies"
 Brown Sugar,Baking Supplies,brown sugar
 Bagels,Carbs,"bagels (whole wheat or cinnamon), bagels"
-Salmon,Meat / Fish (Fresh),"Salmon (1-2 lbs), salmon"
-Fresh Fish,Meat / Fish (Fresh),"whitening fish, fish"
+Fresh Fish,Meat / Fish (Fresh),"whitening fish, fish, salmon, red snapper"
 Tomatoes,Fresh Fruits and Vegetables,tomatoes
-Waffles,,frozen foods: waffles
-Dish Detergent,,dish detergent
+Waffles,Frozen Foods,"frozen foods: waffles, waggles, eggo waffles"
+Yogurt, Dairy / Eggs, "yogurt"
 Kidney Beans,Canned / Jarred Goods,kidney beans
+Pepper, Fresh Fruits and Vegetables, "green pepper, red pepper"
 Crackers,Carbs,oatmeal crackers
 Books,Entertaiment,Books (Children's)
 Lima Beans,Canned / Jarred Goods,lima beans
@@ -80,55 +84,69 @@ Food,Misc Groceries,groceries
 Garbage Bags,Cleaning Supplies,garbage bags
 Canned Corn,Canned / Jarred Goods,canned corn
 Boxed Foods,Carbs,boxed mashed potatoes
-Peanut Butter,Canned / Jarred Goods,peanut butter
+Peanut Butter,Canned / Jarred Goods,peanut butter, peanut butter jelly, creamy peanut butter, plant base butter, smooth peanut butter, 
 Thermometer,Medical,thermometer
 Jelly,Canned / Jarred Goods,jelly
 Baby Food,Baby Supplies,Baby food
 Baby Powder,Hygiene,baby powder
 Clothing,Clothing,"Clothing (newborn), Clothing (children's)"
 Snacks,Snacks / Dessert,chips and snacks (oreos / chips / carrot cake)
-Cranberry Juice,Beverages,cranberry juice
+Potato Chips, Snacks / Dessert, "potatos chip, lay potato chip, plain lay potato chip, low sodium potato chip"
 Tropical Punch,Beverages,tropical punch
 Lemonade,Beverages,lemonade
 Ginger Ale,Beverages,ginger ale
 Pork,Meat / Fish (Fresh),pork
 String Beans,Fresh Fruits and Vegetables,string beans
 Cat Food,Pets,cat food
-Grape Juice,Beverages,grape juice
 Coffee,Beverages,coffee
 Creamer,Dairy / Eggs,creamer
-Ajax,Cleaning Supplies,ajax
-Ground Meat,Meat / Fish (Fresh),ground turkey or chicken
+Ground Meat,Meat / Fish (Fresh),"ground turkey or chicken, ground turkey"
 Peaches,Fresh Fruits and Vegetables,peaches
 Cabbage,Fresh Fruits and Vegetables,cabbage
 Frosted Flakes,Carbs,frosted flakes
-Eggo Waffles,Carbs,eggo waffles
 Steak,Meat / Fish (Fresh),steak
 Fruit Snacks,Snacks / Dessert,scooby food snacks
-Dried Mashed Potatoes,Carbs,dried mashed potatoes
+Dried Mashed Potatoes,Carbs,"dried mashed potatoes, dry mashed potato, mash potato, instant mashed potato, potato flake"
 Frozen French Fries,Frozen Food,frozen french fries
 Baked Beans,Canned / Jarred Goods,baked beans
 Fruit Cups,Snacks / Dessert,fruit cups
 Jello Pudding,Snacks / Dessert,jello pudding
-Red Snapper,Meat / Fish (Fresh),red snapper
-Turkey Bacon,Meat / Fish (Fresh),turkey bacon
 Cucumber,Fresh Fruits and Vegetables,cucumber
-Prenatal Vitamins,Medical,nature made prenatal vitamins
+Prenatal Vitamins,Medical,"nature made prenatal vitamins, natal vitamins"
 Peas,Fresh Fruits and Vegetables,sweet peas
 Corn,Fresh Fruits and Vegetables,corn
 Applesauce,Snacks / Dessert,applesauce
 Strawberries,Fresh Fruits and Vegetables,strawberries
-Tomato Sauce,Canned / Jarred Goods,ragu traditional tomato sauce
-Salt and Pepper,Spices,salt and pepper
+Tomato Sauce,Canned / Jarred Goods,"spaghetti sauce, ragu traditional tomato sauce, traditional tomato sauce, tomato sauce paste, tomato paste, jars cans tomato sauce, tomato sauce barilla, prego tomato sauce, plain tomato sauce, chunky tomato sauce, tomato pasta sauce, classical tomato sauce, canned tomato sauce, preggo tomato sauce, bertolli tomato, tomato suace"
+Salt and Pepper,Spices,"salt and pepper, salt pepper, salt, pepper"
 Turmeric,Spices,ground turmeric
-Nutmeg,Spices,nutmeg
+Nutmeg,Spices, nutmeg
 Garlic,Fresh Fruits and Vegetables,garlic
 Salad,,bagged salad
 Ketchup,,ketchup
 Cream Cheese,,cream cheese
 Canned Tomatoes,,canned tomato sauce.
 Fresh Fruits and Vegetables,,fresh produce
-Turkey Wings,,turkey wings
 Cream of Wheat,,cream of wheat
 Frozen Fruit,,frozen fruits
 Zucchini,Fresh Fruits and Vegetables,zucchini
+Egg Roll, Carbs,egg roll
+Formula, Baby Supplies, "milk formula, formula" 
+NonDairy Milk,Dairy / Eggs,"lactate milk, coconut almond milk, unsweetened almond milk,  oat milk, soy milk, hemp milk, coconut milk, almond milk, nondairy milk, almond breeze milk, oats milk, pckg original almond milk, free nondairy milk"
+Evaporated Milk, Dairy / Eggs, "evaporated milk"
+Condensed Milk, Dairy / Eggs, "condensed milk, condense milk"
+LactoseFree Milk, Dairy / Eggs, "lactose free milk, lactaid milk, lactaid, lactose free, lactate milk"
+Chicken Noodle Soup, Soup, "chicken noodle soup, progresso chicken noodle soup, ramen chicken noodle soup, raman chicken noodle soup, chicken stock, chicken broth, chicken flavor, chicken flavor raman, canned chicken noodle soup, chicken noodle campbell soup, chicken chicken noodle lipton, progresso chicken barley soup"
+Green Beans, Fresh Fruits and Vegetables, "string bean, green bean, green string, stre bean, green stre bean, green bean stre bean, stre bean"
+Green Tea, Beverages, "green black tea, green tea, chinese green tea, honest green tea"
+Okra, Fresh Fruits and Vegetables, "green okra" 
+Tortillas, Carbs, "tortilla, tortilla wraps"
+Hot Dogs, Meat / Fish (Fresh), "franks, hotdogs"
+Paper Plates, Paper Goods, "plates, paper plates"
+Tea, Beverages, "celestial red zingers"
+Apple Cider Vinegar, Condiments, apple cider vinegar
+Canned Corn Beef, Canned Meat, "corn beef brisket, canned corn beef, corned beef, canned corned beef"
+Cornbread Mix, Carb, "corn bread mix, jiffy corn bread mix, corn bread mix"
+Cat Food, Pet, "dry cat food"
+Sausage, Meat / Fish (Fresh), sausage
+Instant Rice, Carb, "parboil rice, microwavable rice, bisquick rice, carolina preboile rice, boil rice, parboil rice sugar, instant rice, uncle ben carolina rice, quick rice, boxes uncle ben rice, uncle bens rice, uncle ben rice original, uncle ben brown rice, uncle ben instant rice, uncle ben grain rice, hard boil rice, grain uncle ben rice, camilla rice uncle ben rice" 
